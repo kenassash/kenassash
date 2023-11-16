@@ -1,11 +1,12 @@
 # About
-The beginning of my career was working in a small online store in Blagoveshensk (Russia). I was fascinated by working with clients and improving order picking and delivery algorithms.
 
-As an online store manager, I have been involved in sales and customer service for 2 regional and 3 federal online stores for 6 years.
+My experience has always been in the IT field. Recently, I've come to realize that I want to become a Python developer. I'm interested in exploring all possible directions where this language can be applied, particularly in web development, an area I have prior experience in. I am open to learning new technologies.
 
-After that, I began to look for opportunities to work remotely and influence processes more, so I started freelancing in the field of social media marketing and graphic design.
+Getting involved in the development of large and interesting projects is what truly captivates me in programming. I am focused on problem-solving and implementing high-quality, elegant code using modern design standards.
 
-Over time, I rethought my career and realized that I was fascinated by the technical side of online sales and I began training as a developer.
+Afterward, I started seeking opportunities to work remotely and have a more active influence on processes. Therefore, I began freelancing in social media marketing and graphic design.
+
+Over time, I reevaluated my career and realized that I am passionate about the technical aspect of online sales, prompting me to pursue training as a developer.
 
 
 # I’m currently working on
